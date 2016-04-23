@@ -1,0 +1,23 @@
+{
+  "name": "custom-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zylstraj/custom-service.git"
+  },
+  "author": "jz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zylstraj/custom-service/issues"
+  },
+  "homepage": "https://github.com/zylstraj/custom-service#readme",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "express": "^4.13.4"
+  }
+}
